@@ -8,14 +8,9 @@ Group Members:
 
 Description: Blinking LED
 Steps:
-1) 
-
-
-INSERT OUR VIDEO LINK HERE:
-
-
-references:
-Toggled the on-board LED using delay and toggle instructions LED remains ON for 500ms and LED remains OFF for 500ms
-Youtube link: https://youtube.com/shorts/iiJYiX5sbTo?feature=share
+1) Familiarization with HAL 
+2) Toggled the on-board LED using delay and toggle instructions.
+3)  LED remains ON for 500ms and LED remains OFF for 500ms
+4)  Youtube link: https://youtube.com/shorts/iiJYiX5sbTo?feature=share
 
 References: https://www.youtube.com/watch?v=eumKLXNlM0U
