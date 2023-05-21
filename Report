@@ -1,0 +1,32 @@
+MILESTONE-1 (REPORT)
+
+Title: Familiarizing with the STM32F4 Development Board
+
+Introduction:
+The purpose of this report is to demonstrate how to blink an LED using the Hardware Abstraction Layer 
+(HAL) library in conjunction with the STM32 Nucleo development board. In this milestone, we will use a 
+delay of 500 milliseconds and the toggle function to control the blinking of an LED.
+
+Hardware Setup:
+STM32F410 Nucleo-64 board
+
+Software Setup:
+Installed STM32CubeIDE (Integrated Development Environment) on computer.
+
+Implementation:
+• Created a new project using STM32F410 NUCLEO-64/NUCLEO-F410RB.
+• Open the main.c file in the project.
+• Define the GPIO pin that is connected to onboard LED.
+• Enter an infinite loop.
+• Toggle the state of the LED using the HAL GPIO toggle function.
+• Delay for 500 milliseconds using the HAL delay function.
+
+Result:
+Upon successfully compiling and uploading the code to the STM32 Nucleo board, the on-board LED 
+started blinking with a delay of 500ms.
+
+Group Members:
+Jawad Ijaz (MKE221005)
+Nur Afiqah binti Ab Razak (MKE211090)
+Huang Ganlin (MKE211098)
+Rasel Rana Roki (MKE221026
