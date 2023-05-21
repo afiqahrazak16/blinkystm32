@@ -3,7 +3,7 @@ Milestone 1
 Group Members: 
 1) Jawad Ijaz (MKE221005) 
 2) Nur Afiqah binti Ab Razak (MKE211090)
-3) Huang Ganlin
+3) Huang Ganlin (MKE211098)
 4) Rasel Rana Roki (MKE221026)
 
 Description: Blinking LED
